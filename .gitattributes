@@ -15,6 +15,8 @@
 *.docx diff=astextplain
 *.xlsx diff=astextplain
 *.XLSX diff=astextplain
+*.xlsm diff=astextplain
+*.XLSM diff=astextplain
 *.DOCX diff=astextplain
 *.dot  diff=astextplain
 *.DOT  diff=astextplain
